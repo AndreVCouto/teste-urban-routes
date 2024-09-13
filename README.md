@@ -1,6 +1,9 @@
 # Teste-de-aplicativos-web
 
-<img src= "Imagem\Urban Routes.png">
+
+<div align="center">
+    <img src= "Urban Routes.png" alt="Urban Scooter" width="900">
+</div>
 
 Neste projeto, realizei o teste da funcionalidade de compartilhamento de carro em dois navegadores:
 
